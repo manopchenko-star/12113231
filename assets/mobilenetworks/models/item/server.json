@@ -1,0 +1,9 @@
+{
+  "parent": "mobilenetworks:block/server",
+  "display": {
+    "thirdperson_righthand": { "scale": [0.55, 0.55, 0.55] },
+    "thirdperson_lefthand": { "scale": [0.55, 0.55, 0.55] },
+    "firstperson_righthand": { "scale": [0.55, 0.55, 0.55] },
+    "firstperson_lefthand": { "scale": [0.55, 0.55, 0.55] }
+  }
+}

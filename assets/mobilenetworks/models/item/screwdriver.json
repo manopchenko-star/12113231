@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "particle": "mobilenetworks:item/screwdriver",
+    "layer0": "mobilenetworks:item/screwdriver"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mobilenetworks:block/diamond_antenna"
+    }
+  }
+}

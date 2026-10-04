@@ -1,0 +1,16 @@
+{
+  "calls.answering_machine": {"sounds": [{"name": "mobilenetworks:calls/answering_machine", "stream": false}]},
+  "calls.end_call": {"sounds": [{"name": "mobilenetworks:calls/end_call", "stream": false}]},
+  "calls.no_signal_call": {"sounds": [{"name": "mobilenetworks:calls/no_signal_call", "stream": false}]},
+  "calls.phone_outgoing_call": {"sounds": [{"name": "mobilenetworks:calls/phone_outgoing_call", "stream": false}]},
+  "calls.ringtone": {"sounds": [{"name": "mobilenetworks:calls/ringtone", "stream": false}]},
+  "calls.start_call": {"sounds": [{"name": "mobilenetworks:calls/start_call", "stream": false}]},
+  "notification": {
+    "sounds": [
+      {
+        "name": "mobilenetworks:notification",
+        "stream": false
+      }
+    ]
+  }
+}

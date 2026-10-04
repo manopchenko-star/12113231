@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "particle": "mobilenetworks:item/mobile_phone",
+    "layer0": "mobilenetworks:item/mobile_phone"
+  }
+}

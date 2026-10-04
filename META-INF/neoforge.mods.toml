@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="mobilenetworks"
+version="4.0.0"
+displayName="Mobile Networks"
+authors="nathan"
+description='''Mobile phones, antennas, roaming, operator plans, mineral billing and beneficiary income, private calls, optional proximity voice and speakerphone, operator SMS, persistent chats, Gram, Camera, Gallery and Maps. Automatically uses Spanish for Spanish clients, or British English for all other languages.'''
+
+[[dependencies.mobilenetworks]]
+modId="voicechat"
+type="required"
+versionRange="[1.21.1-2.6.22,1.21.1-2.7)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.mobilenetworks]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.229,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.mobilenetworks]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
